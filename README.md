@@ -80,7 +80,7 @@
 
    <p>
     O grande desafio dessa aplicação em Nodejs foi criar a rota pra fazer o filtro, que até então eu nunca havia feito, acostumado com o CRUD padrão, tive que pedir ajuda na comunidade DEV pra fazer esse desafio. 💪<br>
-    Outro grande desafio foi gerar esse token no padrão JWT e Bearer que também nunca havia implementado, esse consegui através de tutorial no site: https://www.luiztools.com.br/post/autenticacao-json-web-token-jwt-em-nodejs/
+    Outro grande desafio foi gerar esse token no padrão JWT e Bearer que também nunca havia implementado, esse consegui através de tutorial no site: https://www.luiztools.com.br/post/autenticacao-json-web-token-jwt-em-nodejs/<br>
     O tempo foi outro grande desafio, pois além desse desafio técnico, tive que fazer outros 2, e o terceiro com prazo pra entrega daqui a 2 dias. Conciliar esses desafios foi meu maior desafio e por isso tive que tomar algumas decisões ao longo do processo, como a escolha do Banco de Dados, que foi utilizado o SQLite, pela sua simplicidade e agilidade na construção.<br>
     Estou muito grato e feliz com esse teste, independente do resultado final, pois foi de grande aprendizado, primeiro a questão da gestão do tempo, lidar com vários desafios técnicos ao mesmo tempo com prazos diferentes de entrega, e as coisas novas que aprendi durante a construção dessa API, como por exemplo: criar rotas pra executar filtros na aplicação e autenticação JWT.<br>
     Um grande aprendizado que eu levo pro resto da vida: seja flexível, focado, determinado e organizado. Com isso as coisas tendem a fluir da melhor maneira possível. 🚀
