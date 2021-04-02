@@ -21,7 +21,7 @@
 
 <h2 align="center">Sobre 📖</h2>
 
-<p align="center">
+<p>
    A devAPI foi construída em Typescript 💙 e Nodejs com Express💛.<br>
    Essa aplicação é capaz de criar novos Conectores, listar todos os conectores existentes, fazer edição em algum campo do Conector, Deletar um Conector e filtrar em busca por nome, tipo, categoria e privacidade dos Conectores<br>
    A arquitetura dessa aplicação segue os moldes REST, SOLID e padrão airbnb na organização do código.<br>
@@ -79,9 +79,10 @@
 <h2 align="center">Desafios na construção da API 🤯</h2>
 
    <p>
-    O grande desafio dessa aplicação em Nodejs foi criar a rota pra fazer o filtro, que até então eu nunca havia feito, acostumado com o CRUD, tive que pedir ajuda na comunidade DEV pra fazer esse desafio. 💪<br>
+    O grande desafio dessa aplicação em Nodejs foi criar a rota pra fazer o filtro, que até então eu nunca havia feito, acostumado com o CRUD padrão, tive que pedir ajuda na comunidade DEV pra fazer esse desafio. 💪<br>
+    Outro grande desafio foi gerar esse token no padrão JWT e Bearer que também nunca havia implementado, esse consegui através de tutorial no site: https://www.luiztools.com.br/post/autenticacao-json-web-token-jwt-em-nodejs/
     O tempo foi outro grande desafio, pois além desse desafio técnico, tive que fazer outros 2, e o terceiro com prazo pra entrega daqui a 2 dias. Conciliar esses desafios foi meu maior desafio e por isso tive que tomar algumas decisões ao longo do processo, como a escolha do Banco de Dados, que foi utilizado o SQLite, pela sua simplicidade e agilidade na construção.<br>
-    Estou muito grato e feliz com esse teste, independente do resultado final, pois foi de grande aprendizado, primeiro a questão da gestão do tempo, lidar com vários desafios técnicos ao mesmo tempo com prazos diferentes de entrega, e as coisas novas que aprendi durante a construção dessa API, como por exemplo: criar rotas pra executar filtros na aplicação.<br>
+    Estou muito grato e feliz com esse teste, independente do resultado final, pois foi de grande aprendizado, primeiro a questão da gestão do tempo, lidar com vários desafios técnicos ao mesmo tempo com prazos diferentes de entrega, e as coisas novas que aprendi durante a construção dessa API, como por exemplo: criar rotas pra executar filtros na aplicação e autenticação JWT.<br>
     Um grande aprendizado que eu levo pro resto da vida: seja flexível, focado, determinado e organizado. Com isso as coisas tendem a fluir da melhor maneira possível. 🚀
    </p>
 
